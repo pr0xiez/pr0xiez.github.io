@@ -1,6 +1,7 @@
 module.exports = {
   title: 'All About Hardwood',
   description: 'Just playing around',
+  base: '/.vuepress/dist/',
   themeConfig: {
     editLinks: true,
     docsDir: 'docs',
