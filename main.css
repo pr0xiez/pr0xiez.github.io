@@ -1,17 +1,17 @@
 
-.timer[data-v-b7e09004] {
+.timer[data-v-52cb1dcc] {
     margin-top: 3rem;
     display: flex;
     flex-direction: column;
     row-gap: 1rem;
 }
-.timer .timer-info[data-v-b7e09004], .timer-actions[data-v-b7e09004] {
+.timer .timer-info[data-v-52cb1dcc], .timer-actions[data-v-52cb1dcc] {
     display: flex;
 }
-.timer .timer-info .timer-text[data-v-b7e09004] {
+.timer .timer-info .timer-text[data-v-52cb1dcc] {
     font-size: 2.5rem;
 }
-.timer .timer-info .timer-name[data-v-b7e09004] {
+.timer .timer-info .timer-name[data-v-52cb1dcc] {
     position: relative;
     display: inline-block;
     border: 1px solid #A6A6A6;
@@ -26,10 +26,10 @@
     margin-right: 3rem;
     width: 16rem;
 }
-.timer .timer-info .timer-name[data-v-b7e09004]:focus {
+.timer .timer-info .timer-name[data-v-52cb1dcc]:focus {
     outline: 0;
 }
-.timer-button[data-v-b7e09004] {
+.timer-button[data-v-52cb1dcc] {
     margin-right: 1rem;
     border-radius: 0.25rem;
     border: 0.125rem solid #A6A6A6;
@@ -37,18 +37,18 @@
     cursor: pointer;
     padding: 0.5rem 1rem;
 }
-.timer-button[data-v-b7e09004]:hover {
+.timer-button[data-v-52cb1dcc]:hover {
     background-color: #F3F3F3;
 }
-.timer-button[data-v-b7e09004]:focus {
+.timer-button[data-v-52cb1dcc]:focus {
     outline: 0;
 }
 
 
-h1[data-v-4b478f83] {
+h1[data-v-06758825] {
   margin: 0;
 }
-.app[data-v-4b478f83] {
+.app[data-v-06758825] {
   color: #404040;
   font-family: Roboto, sans-serif;
   font-size: 8px;
@@ -57,14 +57,14 @@ h1[data-v-4b478f83] {
   justify-content: center;
   padding: 2rem 8rem;
 }
-.app .app-header[data-v-4b478f83] {
+.app .app-header[data-v-06758825] {
   margin-bottom: 2rem;
   padding-bottom: 0.5rem;
   font-size: 2rem;
   text-align: center;
   border-bottom: solid 0.125rem #737373;
 }
-.app .add-timer-btn[data-v-4b478f83] {
+.app .add-timer-btn[data-v-06758825] {
   width: 10rem;
   color: white;
   background-color: #50b848;
@@ -74,7 +74,7 @@ h1[data-v-4b478f83] {
   transition: 0.15s linear;
   padding: 0.5rem 1rem;
 }
-.app .add-timer-btn[data-v-4b478f83]:hover {
+.app .add-timer-btn[data-v-06758825]:hover {
   background-color: #489e3f;
 }
 
