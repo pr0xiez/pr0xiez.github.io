@@ -1,0 +1,82 @@
+
+.timer[data-v-435a12ca] {
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+}
+.timer .timer-info[data-v-435a12ca], .timer-actions[data-v-435a12ca] {
+    display: flex;
+}
+.timer .timer-info .timer-text[data-v-435a12ca] {
+    font-size: 2.5rem;
+}
+.timer .timer-info .timer-name[data-v-435a12ca] {
+    position: relative;
+    display: inline-block;
+    border: 1px solid #A6A6A6;
+    font-size: 1.5rem;
+    border-radius: .25rem;
+    transition: cursor 500ms ease-in-out;
+    -ms-transition: cursor 500ms ease-in-out;
+    position: relative;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    height: 3rem;
+    margin-right: 3rem;
+    width: 16rem;
+}
+.timer .timer-info .timer-name[data-v-435a12ca]:focus {
+    outline: 0;
+}
+.timer-button[data-v-435a12ca] {
+    margin-right: 1rem;
+    border-radius: 0.25rem;
+    border: 0.125rem solid #A6A6A6;
+    background-color: white;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+}
+.timer-button[data-v-435a12ca]:hover {
+    background-color: #F3F3F3;
+}
+.timer-button[data-v-435a12ca]:focus {
+    outline: 0;
+}
+
+
+h1[data-v-4b478f83] {
+  margin: 0;
+}
+.app[data-v-4b478f83] {
+  color: #404040;
+  font-family: Roboto, sans-serif;
+  font-size: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem 8rem;
+}
+.app .app-header[data-v-4b478f83] {
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  font-size: 2rem;
+  text-align: center;
+  border-bottom: solid 0.125rem #737373;
+}
+.app .add-timer-btn[data-v-4b478f83] {
+  width: 10rem;
+  color: white;
+  background-color: #50b848;
+  border-radius: 0.25rem;
+  border: 0.125rem transparent solid;
+  cursor: pointer;
+  transition: 0.15s linear;
+  padding: 0.5rem 1rem;
+}
+.app .add-timer-btn[data-v-4b478f83]:hover {
+  background-color: #489e3f;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
